@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was created by mistake
+=======
+This is final code for games of life for game1
+>>>>>>> 3db69d146f718e5d4a8e897d0f298f7afb5905e8
